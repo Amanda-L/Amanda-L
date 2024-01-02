@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Amanda-L/Amanda-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![github 1](https://github.com/Amanda-L/Amanda-L/assets/52643725/3edeebe0-7687-4529-bc2e-fb99ec18bad2)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  
+
