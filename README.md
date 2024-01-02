@@ -3,6 +3,7 @@
 
 - :house_with_garden: I’m from Taipei, Taiwan. Currently reside in St. Louis, MO, USA.
 - :mortar_board: I majored in Master of Information Systems Management and graduated from Washington University in St. Louis in December 2023.
+- :computer: Skills: ![Skills Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fpython-logo%2F&psig=AOvVaw01B0wNWxuergdCTYd1j_tF&ust=1704324912896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJil7prvv4MDFQAAAAAdAAAAABAD)
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
 - 🌱 I am currently learning graph neural networks (GNN) and wish to integrate them with natural language processing (NLP).
 - ⚡ Fun fact:
