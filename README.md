@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="<https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif>"/>
+![giphy](https://github.com/Amanda-L/Amanda-L/assets/52643725/c955bbe7-195e-434c-93e0-f2bb56d2d266)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
