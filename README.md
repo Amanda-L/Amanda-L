@@ -10,7 +10,8 @@
       <a href="https://music.youtube.com/playlist?list=PL9Ln2M3z68HLDS5GDfHFMqQDB6jLsUQ5v&si=SZSmKkc_AjSzcei6">
           <img height="30" src="https://github.com/Amanda-L/Amanda-L/assets/52643725/bfb703d2-bb8c-4548-b188-9a29ad857f14"/>
       </a>
-- 📫 How to reach me: I am open to connecting and happy to make new friends! 
+- 📫 How to reach me: I am open to connecting and happy to make new friends!
+
 <a href="https://www.linkedin.com/in/pei-yu-huang-10702/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
 <a href="Amanda:h.peiyu@wustl.edu?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
