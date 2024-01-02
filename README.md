@@ -6,8 +6,10 @@
 - 🌱 I am currently learning graph neural networks (GNN) and wish to integrate them with natural language processing (NLP).
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
 - ⚡ Fun fact:
-    - :musical_note: My playlist: </a> href="https://music.youtube.com/playlist?list=PL9Ln2M3z68HLDS5GDfHFMqQDB6jLsUQ5v&si=SZSmKkc_AjSzcei6"><img height="30" src="https://github.com/Amanda-L/Amanda-L/assets/52643725/bfb703d2-bb8c-4548-b188-9a29ad857f14"/>
-</a>
+    - :musical_note: My playlist:
+      <a href="https://music.youtube.com/playlist?list=PL9Ln2M3z68HLDS5GDfHFMqQDB6jLsUQ5v&si=SZSmKkc_AjSzcei6">
+          <img height="30" src="https://github.com/Amanda-L/Amanda-L/assets/52643725/bfb703d2-bb8c-4548-b188-9a29ad857f14"/>
+      </a>
 - 📫 How to reach me: I am open to connecting and happy to make new friends! 
 <a href="https://www.linkedin.com/in/pei-yu-huang-10702/">
     <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
