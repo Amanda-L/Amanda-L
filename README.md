@@ -1,5 +1,5 @@
 ### Hi there 👋
-![giphy](https://github.com/Amanda-L/Amanda-L/assets/52643725/c955bbe7-195e-434c-93e0-f2bb56d2d266)
+
 ![giphy](https://github.com/Amanda-L/Amanda-L/assets/52643725/64215359-442e-488f-b30c-f1a8b03575bc)
 
 
