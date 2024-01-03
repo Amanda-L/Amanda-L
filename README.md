@@ -9,7 +9,7 @@
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
 - 🌱 I am currently learning graph neural networks (GNN) and wish to integrate them with natural language processing (NLP).
 - ⚡ Fun fact:
-    - :blue_heart: I learned painting, sculpturing, and sketching for 6 years when I was 12 years old, and I still keep the hobby now. I like to draw some small sketches just to relax.
+    - :blue_heart: I learned painting, sculpturing, and sketching for 6 years when I was 12 years old, and I still keep the hobby now. I like to draw some sketches just to relax.
     - :musical_note: I love US pop music and K-pop, take a look at my playlist:
       <a href="https://music.youtube.com/playlist?list=PL9Ln2M3z68HLDS5GDfHFMqQDB6jLsUQ5v&si=SZSmKkc_AjSzcei6">
           <img height="30" src="https://github.com/Amanda-L/Amanda-L/assets/52643725/bfb703d2-bb8c-4548-b188-9a29ad857f14"/>
