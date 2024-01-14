@@ -7,7 +7,7 @@
 - :mortar_board: I majored in Master of Information Systems Management and graduated from Washington University in St. Louis in December 2023.
 - :computer: Tech Stacks: Python, SQL, Java, Node.js | Scikit-learn, PyTorch, TensorFlow, spaCy | Tableau | AWS, Azure.
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
-- 🌱 I am currently learning graph neural networks (GNN) and wish to integrate them with natural language processing (NLP).
+- 🌱 I am currently preparing for the AWS Machine Learning - Specialty Certification, and the expected exam date would be in April 2024.
 - ⚡ Fun fact:
     - :blue_heart: I learned painting, sculpturing, and sketching for 6 years when I was 12 years old, and I still keep the hobby now. I like to draw some sketches just to relax.
     - :musical_note: I love US pop music and K-pop, take a look at my playlist:
