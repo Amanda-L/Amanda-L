@@ -16,9 +16,10 @@
       </a>
 - 📫 How to reach me: I am open to connecting and happy to make new friends!
 
-        <a href="https://www.linkedin.com/in/pei-yu-huang-10702/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
-        <a href="mailto:h.peiyu@wustl.edu?"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-        <a href="mailto:amanda10702@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- 
+<a href="https://www.linkedin.com/in/pei-yu-huang-10702/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:h.peiyu@wustl.edu?"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:amanda10702@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   
 
