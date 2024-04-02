@@ -5,12 +5,7 @@
 
 - :house_with_garden: I’m from Taipei, Taiwan. Currently reside in St. Louis, MO, USA.
 - :mortar_board: I majored in Master of Information Systems Management and graduated from Washington University in St. Louis in December 2023.
-- :computer:
--     Programming Languages: Python, SQL, Java
-Machine Learning Tools: TensorFlow, Scikit-learn, PyTorch, Keras | NLP Tools: spaCy, NLTK, Stanza
-Cloud Technologies: AWS, Azure, GCP
-Data Analysis/ Visualization Tools: Tableau, SPSS
-Languages: Mandarin (Native speaker), English (Professional).
+- :computer: 1. Programming Languages: Python, SQL, Java, 2. Machine Learning Tools: TensorFlow, Scikit-learn, PyTorch, Keras, 3. NLP Tools: spaCy, NLTK, Stanza, 4. Cloud Technologies: AWS, Azure, GCP, 5. Data Analysis/ Visualization Tools: Tableau, SPSS, 6. Languages: Mandarin (Native speaker), English (Professional).
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
 - ⚡ Fun fact:
     - :blue_heart: I learned painting, sculpturing, and sketching for 6 years when I was 12 years old, and I still keep the hobby now. I like to draw some sketches just to relax.
