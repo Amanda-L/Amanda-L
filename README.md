@@ -14,6 +14,7 @@
       <a href="https://music.youtube.com/playlist?list=PL9Ln2M3z68HLDS5GDfHFMqQDB6jLsUQ5v&si=SZSmKkc_AjSzcei6">
           <img height="30" src="https://github.com/Amanda-L/Amanda-L/assets/52643725/bfb703d2-bb8c-4548-b188-9a29ad857f14"/>
       </a>
+    - 🐱 Favorite website: PopCat https://popcat.click/, a cute website that I occasionally visit just to pop a cat for my country :)  (This sounded weird, but TRUST ME it's worth visiting 🐈)
 - 📫 How to reach me: I am open to connecting and happy to make new friends!
 
 
