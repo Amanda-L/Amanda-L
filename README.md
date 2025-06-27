@@ -3,7 +3,7 @@
 ![giphy](https://github.com/Amanda-L/Amanda-L/assets/52643725/64215359-442e-488f-b30c-f1a8b03575bc)
 
 
-- :house_with_garden: I’m from Taipei, Taiwan. Currently reside in St. Louis, MO, USA.
+- :house_with_garden: I’m from Taipei, Taiwan. Currently reside in Dallas, Texas, USA.
 - :mortar_board: I majored in Master of Information Systems Management and graduated from Washington University in St. Louis in December 2023.
 - :computer: Skills:
     -  Programming Languages: Python, SQL, Java
