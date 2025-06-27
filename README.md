@@ -4,13 +4,12 @@
 
 
 - :house_with_garden: I’m from Taipei, Taiwan. Currently reside in Dallas, Texas, USA.
-- :mortar_board: I majored in Master of Information Systems Management and graduated from Washington University in St. Louis in December 2023.
 - :computer: Skills:
     -  Programming Languages: Python, SQL, Java
     -  Machine Learning Tools: TensorFlow, Scikit-learn, PyTorch, Keras
         - NLP Tools: spaCy, NLTK, Stanza
     - Cloud Technologies: AWS, Azure, GCP
-    - Data Analysis/ Visualization Tools: Tableau, SPSS
+    - Data Analysis/ Visualization Tools: PowerBI, Tableau, SPSS
 - :lips: Languages: Mandarin (Native speaker), English (Professional).
 - 🤔 I am seeking opportunities in the field of Data Analysis or Data Science.
 - ⚡ Fun fact:
